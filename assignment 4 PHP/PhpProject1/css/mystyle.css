@@ -1,0 +1,43 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+#content{
+    padding-top: 100px;
+    min-height: 645px;
+}
+#banner_image{
+    padding-top: 75px;
+    padding-bottom: 120px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/intro-bg_1.jpg) no-repeat center;
+    background-size: cover;
+}
+#banner_content{
+    position: relative;
+    padding-top: 4%;
+    padding-bottom: 5%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+#item_list{
+    padding-top: 50px;
+}
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    margin-bottom: 0;
+    width: 100%;
+}
+.bg_color{
+    background-color: #bfbfbf;
+}
+.glyph_size{
+    font-size: 80px;
+    color: rgba(3, 194, 3, 0.89);
+}
